@@ -43,9 +43,9 @@ The dataset contains the follwoing tables:<br>
  
 ### Tools Used
 
-- MySQL
-- Power BI
-
+-  <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"> MySQL
+- <img height="32px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg">  Power BI
+  
 ### Exploratory Analysis
 In this stage, the data is explored using SQL to understand its structure, depth and answer basic underlying questions such as posts with a view count greater than hundred:
 
@@ -70,8 +70,8 @@ order by u.id asc;
 
 The analysis involves use of advanced SQL concepts such as **subqueries**, **Common Table Expression (CTE)**, **window functions**.
 
-### Interactive Dashboard
-The findings of the analysis is then presented in form of a dynamic stakeholder dashboard.
+### Interactive Dashboard [![View Dashboard on Power BI](https://img.shields.io/badge/View%20Dashboard%20on-Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMDk3OWUxYmQtMmNkNS00ZDBiLTg4ZjktMzhhYmQyODhlZGU0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+The findings of the analysis is then presented in form of a dynamic stakeholder dashboard. 
 
 *Dashboard Snapshot:*
 ![image](https://github.com/user-attachments/assets/b8ebc57c-5ed0-4d9f-8c94-58510582402d)
