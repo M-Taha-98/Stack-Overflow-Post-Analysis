@@ -78,5 +78,5 @@ The findings of the analysis is then presented in form of a dynamic stakeholder 
 
 ___
 
-[View my Linkedin](https://www.linkedin.com/in/mohammadtaha-businessanalytics/)
+[![View LinkedIn Profile](https://img.shields.io/badge/View%20Profile%20on-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadtaha-businessanalytics/)
 
