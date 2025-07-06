@@ -42,10 +42,13 @@ The dataset contains the follwoing tables:<br>
 ○ Key Fields: id, title, post_tag_id, creation_date, score, view_count, user_id.<br>
  
 ### Tools Used
+<!-- 
+-  <img height="12px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"> MySQL
+- <img height="12px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg">  Power BI
+-->
+- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" style="height: 2em; vertical-align: middle;">  MySQL
+-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" style="height: 2em; vertical-align: middle;"> Power BI
 
--  <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"> MySQL
-- <img height="32px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg">  Power BI
-  
 ### Exploratory Analysis
 In this stage, the data is explored using SQL to understand its structure, depth and answer basic underlying questions such as posts with a view count greater than hundred:
 
